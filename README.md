@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170B18,50:C71585,100:FF69B4&height=220&section=header&text=MARIA%20INGRID&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SILVA%20SILVEIRA%20%7C%20INFORMATION%20SYSTEMS&descAlignY=60&descSize=16" width="100%" alt="Banner rosa de Maria Ingrid"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170B18,50:C71585,100:FF69B4&height=220&section=header&text=MARIA%20INGRID&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SILVA%20SILVEIRA%20%7C%20INFORMATION%20SYSTEMS&descAlignY=60&descSize=16" width="100%" alt="Banner rosa de Ingrid"/>
 
 #Ingrid Silveira
 
