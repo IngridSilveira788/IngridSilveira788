@@ -26,12 +26,12 @@ Tenho interesse em aprender novas tecnologias, desenvolver projetos práticos e 
 
 </div>
 
-| Área | Tecnologias |
-|---|---|
-| Front-end | JavaScript, CSS, Angular |
-| Back-end | Node.js, Python |
-| Banco de dados | PostgreSQL, MongoDB |
-| Ferramentas | Git, GitHub, VS Code |
+  | Área | Tecnologias |
+  |---|---|
+  | Front-end | JavaScript, CSS, Angular |
+  | Back-end | Node.js, Python |
+  | Banco de dados | PostgreSQL, MongoDB |
+  | Ferramentas | Git, GitHub, VS Code |
 
 ## Areas of Interest
 
