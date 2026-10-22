@@ -67,8 +67,6 @@ Contact
 
 <br/><br/>
 
-Learning today. Building tomorrow.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:170B18&height=100&section=footer" width="100%" alt="Rodapé em degradê rosa"/>
 
 </div>
