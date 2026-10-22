@@ -51,4 +51,24 @@ Projeto acadêmico voltado ao desenvolvimento de uma aplicação para gerenciame
 
 Aplicação web para gerenciamento de serviços e agendamentos, com foco na organização de horários e na experiência do usuário.
 
-## GitHub
+Contact
+
+<div align="center">
+
+<a href="mailto:ingridss611@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-C71585?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/ingrid-silveira-61a601314">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-C71585?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/IngridSilveira788">
+<img src="https://img.shields.io/badge/GitHub-Profile-C71585?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+Learning today. Building tomorrow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C71585,100:170B18&height=100&section=footer" width="100%" alt="Rodapé em degradê rosa"/>
+
+</div>
