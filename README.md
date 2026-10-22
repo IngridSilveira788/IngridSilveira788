@@ -1,16 +1,54 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**IngridSilveira788/IngridSilveira788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:170B18,50:C71585,100:FF69B4&height=220&section=header&text=MARIA%20INGRID&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SILVA%20SILVEIRA%20%7C%20INFORMATION%20SYSTEMS&descAlignY=60&descSize=16" width="100%" alt="Banner rosa de Maria Ingrid"/>
 
-Here are some ideas to get you started:
+# Maria Ingrid Silva Silveira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full Stack Developer in Progress | Information Systems Student**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Interested+in+Full+Stack+Development;Building+Web+Applications;Learning+and+Growing+Every+Day" alt="Texto animado"/>
+
+</div>
+
+---
+
+## About Me
+
+Sou estudante de **Sistemas de Informação**, com interesse em desenvolvimento **Full Stack** e criação de aplicações web. Busco aprimorar meus conhecimentos em desenvolvimento front-end e back-end, bancos de dados e construção de soluções eficientes, funcionais e bem estruturadas.
+
+Tenho interesse em aprender novas tecnologias, desenvolver projetos práticos e evoluir continuamente como profissional da área de tecnologia.
+
+## Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,css,nodejs,angular,python,postgres,mongodb,git,github,vscode&theme=dark" alt="JavaScript, CSS, Node.js, Angular, Python, PostgreSQL, MongoDB, Git, GitHub e VS Code"/>
+
+</div>
+
+| Área | Tecnologias |
+|---|---|
+| Front-end | JavaScript, CSS, Angular |
+| Back-end | Node.js, Python |
+| Banco de dados | PostgreSQL, MongoDB |
+| Ferramentas | Git, GitHub, VS Code |
+
+## Areas of Interest
+
+- Full Stack Web Development
+- Front-end and Back-end Development
+- Database Design and Management
+- APIs and System Integration
+- Software Development Best Practices
+
+## Featured Projects
+
+**Hotel Management System**
+
+Projeto acadêmico voltado ao desenvolvimento de uma aplicação para gerenciamento hoteleiro, com integração entre API, banco de dados e interface web.
+
+**Service Scheduling System**
+
+Aplicação web para gerenciamento de serviços e agendamentos, com foco na organização de horários e na experiência do usuário.
+
+## GitHub
