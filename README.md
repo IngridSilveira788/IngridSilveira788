@@ -51,7 +51,7 @@ Projeto acadêmico voltado ao desenvolvimento de uma aplicação para gerenciame
 
 Aplicação web para gerenciamento de serviços e agendamentos, com foco na organização de horários e na experiência do usuário.
 
-Contact
+## Contact
 
 <div align="center">
 
